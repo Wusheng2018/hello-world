@@ -1,2 +1,3 @@
 # hello-world
-I'm editting readme on edit-readme branch.
+
+Any edit should be commit to any-edit branch before merged to master branch.
